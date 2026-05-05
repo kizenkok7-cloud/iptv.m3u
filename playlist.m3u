@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные" ,НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общественные" ,Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные" ,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Общественные",ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/18.png" group-title="Общественные" ,Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Общественные" ,Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="россия-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные" ,Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спортивные",Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские" ,Карусель
+http://77.232.131.211/Karusel/index.m3u8
+
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские" ,Мульт
+http://93.84.115.174:10181/mult
+
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="Детские" ,Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Культура",Россия К HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Развлекательные" ,Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные" ,Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Развлекательные" ,СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+
+#EXTINF:-1 tvg-id="сарафан" tvg-logo="https://iptvx.one/picons/sarafan.png" group-title="Развлекательные" ,Сарафан
+http://93.84.115.174:10181/sarafan
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Развлекательные" ,ТНТ
+http://31.131.141.195:8000/play/2090/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Развлекательные" ,ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+
+#EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные" ,Ю HD
+http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
