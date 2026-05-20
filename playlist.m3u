@@ -57,3 +57,24 @@ https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zh
 
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://iptvx.one/picons/yu.png" group-title="Развлекательные" ,Ю HD
 https://ok.ru/video/2961812233904
+
+
+#EXTM3U
+#EXTINF:-1,Россия 1
+http://otttv.ru
+#EXTINF:-1,Россия 24
+http://otttv.ru
+#EXTINF:-1,НТВ
+http://otttv.ru
+#EXTINF:-1,Матч ТВ
+http://otttv.ru
+#EXTINF:-1,СТС
+http://otttv.ru
+#EXTINF:-1,ТНТ
+http://otttv.ru
+#EXTINF:-1,Пятница
+http://otttv.ru
+#EXTINF:-1,Ю ТВ
+http://otttv.ru
+#EXTINF:-1,ТНТ4
+http://otttv.ru
